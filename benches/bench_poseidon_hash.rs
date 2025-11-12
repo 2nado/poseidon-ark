@@ -1,7 +1,7 @@
 use criterion::{criterion_group, criterion_main, Criterion};
 
 use ark_bn254::Fr;
-use poseidon_ark::Poseidon;
+use poseidon_ark_no_std::Poseidon;
 
 use ark_std::str::FromStr;
 

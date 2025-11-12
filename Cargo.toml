@@ -1,11 +1,11 @@
 [package]
-name = "poseidon-ark"
+name = "poseidon-ark-no-std"
 version = "0.0.1"
-authors = ["arnaucube <root@arnaucube.com>"]
+authors = ["2nado <https://github.com/2nado>"]
 edition = "2021"
 license = "Apache-2.0"
 description = "Poseidon hash implementation"
-repository = "https://github.com/arnaucube/poseidon-ark"
+repository = "https://github.com/2nado/poseidon-ark/tree/no-std"
 readme = "README.md"
 
 [dependencies]
